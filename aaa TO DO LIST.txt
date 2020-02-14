@@ -1,8 +1,0 @@
-1) Find a way to refresh the page after five minutes of inactivity.
--Refresh timer must reset after user moves mouse or types anything
-
-2) Add a checkbox for tutoring on student transactions page
-
-3) ???
-
-4) PROFIT
